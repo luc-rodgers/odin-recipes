@@ -15,9 +15,13 @@
     margin: auto;
   }
   
+  ul {
+    list-style-type: none;
+  }
+
   .home-title {
     font-size: ;
-    margin-bottom: ;
+    margin-bottom: 20px;
     text-align: center;
     color: #222;
   }
